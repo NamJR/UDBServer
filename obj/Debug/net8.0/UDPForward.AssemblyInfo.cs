@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c4595da4-4924-42b9-8628-feb601d87f31")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("UDPForward")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba054df5d6b063a1185ba26f449930b3650b5e4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54ca556afd503f6a63ce3b1b377f26ae644574c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("UDPForward")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UDPForward")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
