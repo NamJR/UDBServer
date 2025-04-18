@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UDPForward")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba054df5d6b063a1185ba26f449930b3650b5e4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UDPForward")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UDPForward")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
